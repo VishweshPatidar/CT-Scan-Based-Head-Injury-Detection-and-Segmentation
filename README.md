@@ -124,14 +124,6 @@ pip install torch torchvision matplotlib pandas opencv-python tqdm
 - **Vishwesh Patidar** ([GitHub Profile](https://github.com/VishweshPatidar))
 - **Abhigyan Shrivastava** ([GitHub Profile](https://github.com/abhiigyan))
 - **Yuvika Yadav**
----
 
-## 📸 Sample Results
-
-| Input CT Image | Ground Truth | Predicted Mask | Overlay |
-|----------------|--------------|----------------|---------|
-| ![](sample_image.pn     g) | ![](gt_mask.png) | ![](pred_mask.png) | ![](overlay.png) |
-
----
 
 ## ⭐ Star this repo if you found it helpful!
